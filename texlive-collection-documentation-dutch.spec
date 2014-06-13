@@ -7,7 +7,7 @@
 Name:		texlive-collection-documentation-dutch
 Epoch:		1
 Version:	20120224
-Release:	5
+Release:	6
 Summary:	Dutch documentation
 Group:		Publishing
 URL:		http://tug.org/texlive
